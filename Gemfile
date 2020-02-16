@@ -16,7 +16,7 @@ gem 'autoprefixer-rails'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'simple_form', '~> 4.1'
+gem 'simple_form', '~> 5.0'
 gem 'carrierwave', '~> 1.3', '>= 1.3.1'
 gem 'mini_magick'
 
